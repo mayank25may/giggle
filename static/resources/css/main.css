@@ -1,0 +1,63 @@
+.allprojects {
+    margin-top: 50px;
+    height: auto;
+}
+
+.project-details {
+    margin-top: 50px;
+    height: 700px;
+}
+
+.submit-solution {
+    margin-top: 50px;
+    height: 280px;
+}
+
+th {
+    font-size: 24px;
+}
+
+tr {
+    cursor: pointer;
+}
+
+.row-data:hover {
+    background-color: #0f7864;
+    /*border: 1px solid #18bc9c;*/
+    
+    border-radius: 6px;
+    color: #fff;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.logo {
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.panel-default>.panel-heading {
+    color: #2c3e50;
+    background-color: #0f7864;
+    border-color: #ecf0f1;
+}
+
+.panel-title {
+    color: #ffffff;
+}
+
+#submit-a-solution {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-right: 0px;
+}
+
+.help{
+    float: right;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
